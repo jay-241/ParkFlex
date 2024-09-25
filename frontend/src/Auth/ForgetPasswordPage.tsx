@@ -4,6 +4,7 @@ import axios from 'axios';
 import { toast } from 'react-toastify';
 import LoginImage from '../assets/images/Login.jpg'; 
 
+//just adding comment
 // Functional component for the forget password page
 const ForgetPasswordPage: React.FC = () => {
   const [email, setEmail] = useState('');
